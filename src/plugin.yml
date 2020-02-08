@@ -1,0 +1,7 @@
+name: Playground
+version: 1.0
+authors: [Streampy]
+main: nl.streampy.playground.Main
+description: Playground
+api-version: 1.14
+load: startup
